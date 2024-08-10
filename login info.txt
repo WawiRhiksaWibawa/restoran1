@@ -1,0 +1,22 @@
+
+**Admin Login**
+
+Email	: admin@gmail.com
+Password: admin
+
+**kasir Login**
+
+Email	: kasir@gmail.com
+Password: kasir
+
+**pelanggan login**
+
+Email	: pelanggan@gmail.com
+Password: pelanggan
+
+**koki login**
+
+Email	: koki@gmail.com
+Password: koki
+
+
